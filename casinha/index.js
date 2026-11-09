@@ -12,7 +12,7 @@ const casas = [
     { escalaX: 1,    escalaY: -1,   angulo: 0 }              // Casa 9
 ];
 
-draw(0);
+
 
 document.addEventListener("keydown", function(event){
 
@@ -131,4 +131,4 @@ ctx.stroke();
 }
 
 
-draw(7);
+draw(0);
