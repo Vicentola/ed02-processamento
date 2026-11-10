@@ -61,7 +61,6 @@ const centroY = (topoCasa + chaoCasa) / 2;
 const centroX = casaX + largura / 2;
 
 
-
 ctx.save();
 
 ctx.translate(centroX, centroY);
