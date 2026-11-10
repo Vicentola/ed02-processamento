@@ -38,6 +38,7 @@ function sortearTriangulo() {
 }
 
 
-setInterval(sortearTriangulo, 1);
+setInterval(sortearTriangulo, 500);
+
 
 
